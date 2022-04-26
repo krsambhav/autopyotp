@@ -1,0 +1,4 @@
+pytop
+pynput
+pyautogui
+pyperclip

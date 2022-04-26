@@ -1,4 +1,3 @@
-from turtle import onclick
 import pyotp
 import pyperclip
 from pynput import mouse
