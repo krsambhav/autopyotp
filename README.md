@@ -10,6 +10,6 @@ a python tool to paste time based otp from secret key without hassles
 
 `python3 main.py`
 
-* Copy secret key to your clipboard and **right arrow key** while focusing on the input box where you want to paste the OTP.
+* Copy secret key to your clipboard and **press right arrow key** while focusing on the input box where you want to paste the OTP.
 
 *have a nice day 🖤*
